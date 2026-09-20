@@ -30,21 +30,17 @@ The content follows a **Sunni / Ahl al-Sunnah approach and Hanafi jurisprudence*
 
 ## 📱 Screenshots
 
-<div align="center">
+<p align="center">
+  <img src="screenshots/home.png" width="250">
+  <img src="screenshots/ibadat.png" width="250">
+  <img src="screenshots/qibla.png" width="250">
+</p>
 
-<img src="screenshots/home.png" width="30%">
-<img src="screenshots/ibadat.png" width="30%">
-<img src="screenshots/qibla.png" width="30%">
-
-<br><br>
-
-<img src="screenshots/azkar.png" width="30%">
-<img src="screenshots/quiz.png" width="30%">
-<img src="screenshots/settings.png" width="30%">
-
-</div>
-
----
+<p align="center">
+  <img src="screenshots/azkar.png" width="250">
+  <img src="screenshots/quiz.png" width="250">
+  <img src="screenshots/settings.png" width="250">
+</p>
 
 ## ✨ Features
 
